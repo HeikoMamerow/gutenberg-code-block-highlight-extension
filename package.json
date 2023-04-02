@@ -1,6 +1,6 @@
 {
   "name": "gutenberg-code-block-highlight-extension",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Heiko Mamerow",
   "scripts": {
     "build": "wp-scripts build",
@@ -30,7 +30,6 @@
     "prettier": "^2.2.1"
   },
   "dependencies": {
-    "classnames": "^2.2.6",
-    "highlight.js": "^11.7.0"
+    "classnames": "^2.2.6"
   }
 }
