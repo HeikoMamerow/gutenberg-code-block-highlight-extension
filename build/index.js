@@ -1,0 +1,1 @@
+(()=>{const{addFilter:e}=wp.hooks,{assign:o,merge:t}=lodash;e("blocks.registerBlockType","intro-to-filters/cover-block/alignment-settings",(function(e,t){return"core/code"===t?o({},e,{}):e}))})();
