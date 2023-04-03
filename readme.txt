@@ -13,7 +13,7 @@ Extends the origin Gutenberg Code Block with syntax highlighting.
 == Description ==
 This little WordPress plugin extens the origin Code Block from Gutenberg with syntax highlighting from Prism(https://prismjs.com/).
 
-## How to use
+== How to use ==
 
 1. Write your code in the origin code block as before.
 2. If you want to activate syntax highlighting write the language class in the ADDITIONAL CSS CLASS(ES) field of the code block like this: language-xxxx
